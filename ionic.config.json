@@ -1,0 +1,8 @@
+{
+  "name": "foodkart",
+  "app_id": "272277d5",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic1"
+}

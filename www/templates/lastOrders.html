@@ -1,0 +1,23 @@
+<ion-view style="" class=" " id="page10" title="Pesanan">
+    <ion-content class="has-header" padding="true">
+
+
+      <ion-list ng-repeat="item in orders">
+
+        <ion-item class="item-thumbnail-left" >
+
+          <img  ng-src="{{'img/fk/'+ item.product_image +'.jpg'}}" >
+
+          <a class="badge badge-balanced" style="position: absolute;right:0;" >{{item.status}}</a>
+
+          <h4> {{item.product_name}} </h4>
+          <p>Jumlah: {{item.item_qty}}  Harga: IDR {{item.product_price}}</p>
+
+
+        </ion-item>
+
+      </ion-list>
+
+
+    </ion-content>
+</ion-view>

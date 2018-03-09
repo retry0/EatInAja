@@ -1,0 +1,300 @@
+{
+  "category" : {
+    "cat01" : "Makanan",
+    "cat02" : "Minuman"
+  },
+  "featured" : {
+    "item1" : "slide_1",
+    "item2" : "slide_2"
+  },
+  "menu" : {
+    "item1" : {
+      "available" : true,
+      "category" : "cat01",
+      "description" : "item1 description",
+      "image" : "ayamGeprek",
+      "name" : "Ayam Geprek",
+      "price" : 25000,
+      "stock" : 50
+    },
+    "item2" : {
+      "available" : true,
+      "category" : "cat01",
+      "description" : "ite2m2 description",
+      "image" : "ayamPenyet",
+      "name" : "Ayam Penyet",
+      "price" : 30000,
+      "stock" : 50
+    },
+    "item3" : {
+      "available" : true,
+      "category" : "cat01",
+      "description" : "item3 description",
+      "image" : "bakso",
+      "name" : "Bakso Malang",
+      "price" : 15000,
+      "stock" : 50
+    },
+    "item4" : {
+      "available" : true,
+      "category" : "cat01",
+      "description" : "item4 description",
+      "image" : "bubuAyam",
+      "name" : "Bubur Ayam",
+      "price" : 17000,
+      "stock" : 50
+    },
+    "item5" : {
+      "available" : true,
+      "category" : "cat01",
+      "description" : "item5 description",
+      "image" : "chickenCrisphy",
+      "name" : "Chicken Crisphy",
+      "price" : 40000,
+      "stock" : 10
+    },
+    "item6" : {
+      "available" : true,
+      "category" : "cat01",
+      "description" : "item6 description",
+      "image" : "gadoGado",
+      "name" : "Gado Gado Indonesia",
+      "price" : 35000,
+      "stock" : 5
+    },
+    "item7" : {
+      "available" : true,
+      "category" : "cat01",
+      "description" : "item8 description",
+      "image" : "lelePenyet",
+      "name" : "Lele Penyet",
+      "price" : 45000,
+      "stock" : 4
+    },
+    "item8" : {
+      "available" : true,
+      "category" : "cat01",
+      "description" : "item8 description",
+      "image" : "Martabak",
+      "name" : "Martabak Manis",
+      "price" : 50000,
+      "stock" : 10
+    },
+    "item9" : {
+      "available" : true,
+      "category" : "cat01",
+      "description" : "item8 description",
+      "image" : "meeBandung",
+      "name" : "Mee Bandung Seafood",
+      "price" : 50000,
+      "stock" : 10
+    },
+    "item10" : {
+      "available" : true,
+      "category" : "cat01",
+      "description" : "item8 description",
+      "image" : "mozzarellaStuffedOnionRingsCheese",
+      "name" : "Mozzarella Stuffed Onion Rings Cheese",
+      "price" : 80000,
+      "stock" : 3
+    },
+    "item11" : {
+      "available" : true,
+      "category" : "cat01",
+      "description" : "item8 description",
+      "image" : "nasiGoreng",
+      "name" : "Nasi Goreng Kambing",
+      "price" : 55000,
+      "stock" : 10
+    },
+    "item12" : {
+      "available" : true,
+      "category" : "cat01",
+      "description" : "item8 description",
+      "image" : "pisangGoreng",
+      "name" : "Pisang Goreng Manis",
+      "price" : 90000,
+      "stock" : 2
+    },
+    "item13" : {
+      "available" : true,
+      "category" : "cat01",
+      "description" : "item8 description",
+      "image" : "rotiBakar",
+      "name" : "Roti Bakar",
+      "price" : 75000,
+      "stock" : 5
+    },
+    "item14" : {
+      "available" : true,
+      "category" : "cat01",
+      "description" : "item8 description",
+      "image" : "siomay",
+      "name" : "Siomay Khas Bandung",
+      "price" : 50000,
+      "stock" : 5
+    },
+    "item15" : {
+      "available" : true,
+      "category" : "cat01",
+      "description" : "item8 description",
+      "image" : "tomYam",
+      "name" : "Tom Yam Khas Thailand",
+      "price" : 150000,
+      "stock" : 10
+    },
+    "item16" : {
+      "available" : true,
+      "category" : "cat02",
+      "description" : "item8 description",
+      "image" : "airMineral",
+      "name" : "Air Mineral",
+      "price" : 10000,
+      "stock" : 100
+    },
+    "item17" : {
+      "available" : true,
+      "category" : "cat02",
+      "description" : "item8 description",
+      "image" : "chocalate",
+      "name" : "Chocalate Panas",
+      "price" : 15000,
+      "stock" : 10
+    },
+    "item18" : {
+      "available" : true,
+      "category" : "cat02",
+      "description" : "item8 description",
+      "image" : "cocaCola",
+      "name" : "Coca Cola",
+      "price" : 10000,
+      "stock" : 10
+    },
+    "item19" : {
+      "available" : true,
+      "category" : "cat02",
+      "description" : "item8 description",
+      "image" : "iceCream",
+      "name" : "Ice Cream Panas",
+      "price" : 20000,
+      "stock" : 5
+    },
+    "item20" : {
+      "available" : true,
+      "category" : "cat02",
+      "description" : "item8 description",
+      "image" : "iceHazelnut",
+      "name" : "Ice Hazelnut ",
+      "price" : 50000,
+      "stock" : 2
+    },
+    "item21" : {
+      "available" : true,
+      "category" : "cat02",
+      "description" : "item8 description",
+      "image" : "jusAlpukat",
+      "name" : "Jus Buah Alpukat",
+      "price" : 50000,
+      "stock" : 7
+    },
+    "item22" : {
+      "available" : true,
+      "category" : "cat02",
+      "description" : "item8 description",
+      "image" : "jusBuahNaga",
+      "name" : "Jus Buah Naga",
+      "price" : 55000,
+      "stock" : 10
+    },
+    "item23" : {
+      "available" : true,
+      "category" : "cat02",
+      "description" : "item8 description",
+      "image" : "jusJeruk",
+      "name" : "Jus Buah Jeruk",
+      "price" : 65000,
+      "stock" : 10
+    },
+    "item24" : {
+      "available" : true,
+      "category" : "cat02",
+      "description" : "item8 description",
+      "image" : "jusSemangka",
+      "name" : "Jus Semangka",
+      "price" : 50000,
+      "stock" : 10
+    },
+    "item25" : {
+      "available" : true,
+      "category" : "cat02",
+      "description" : "item8 description",
+      "image" : "latte",
+      "name" : "Coffe Latte",
+      "price" : 45000,
+      "stock" : 2
+    },
+    "item26" : {
+      "available" : true,
+      "category" : "cat02",
+      "description" : "item8 description",
+      "image" : "milkShake",
+      "name" : "Milk Shake Chocalate",
+      "price" : 70000,
+      "stock" : 4
+    },
+    "item27" : {
+      "available" : true,
+      "category" : "cat02",
+      "description" : "item8 description",
+      "image" : "smirnoffApple",
+      "name" : "Smirnoff Apple",
+      "price" : 90000,
+      "stock" : 3
+    },
+    "item28" : {
+      "available" : true,
+      "category" : "cat02",
+      "description" : "item8 description",
+      "image" : "smoothie",
+      "name" : "Smoothie",
+      "price" : 59000,
+      "stock" : 3
+    },
+    "item29" : {
+      "available" : true,
+      "category" : "cat02",
+      "description" : "item8 description",
+      "image" : "susu",
+      "name" : "Susu Segar",
+      "price" : 55000,
+      "stock" : 10
+    },
+    "item30" : {
+      "available" : true,
+      "category" : "cat02",
+      "description" : "item8 description",
+      "image" : "teaDingin",
+      "name" : "Tea Dingin",
+      "price" : 50000,
+      "stock" : 10
+    },
+    "item31" : {
+      "available" : true,
+      "category" : "cat02",
+      "description" : "item8 description",
+      "image" : "teaPanas",
+      "name" : "Tea Panas ",
+      "price" : 45000,
+      "stock" : 23
+    },
+    "item32" : {
+      "available" : true,
+      "category" : "cat02",
+      "description" : "item8 description",
+      "image" : "yogurt",
+      "name" : "Yogurt",
+      "price" : 50000,
+      "stock" : 4
+    }
+  }
+}
