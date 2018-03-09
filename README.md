@@ -28,10 +28,10 @@ Make sure to [follow me on Git ](http://github.com/retry0) for getting the Lates
 #### Getting Startted
 To run the app, clone or download it, then do the following in the project directory:
 
-    1. `npm update` to update depedencies.
-    2. `ionic cordova` platform add android for deploy app in android.
-    3. `ionic serve` if want run in browser.
-    
+1. `npm update` to update dependencies
+2. `ionic cordova platform add android` to add platform android 
+3. `ionic cordova run android` run app in android
+4. `ionic serve` to run in the browser
 
 
 
