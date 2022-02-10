@@ -20,7 +20,7 @@
     "@ionic/cli-plugin-ionic1": "2.0.0",
     "bower": "^1.8.9",
     "gulp-util": "^2.2.14",
-    "node-sass": "4.13.1",
+    "node-sass": "7.0.0",
     "shelljs": "^0.3.0"
   },
   "cordovaPlugins": [
